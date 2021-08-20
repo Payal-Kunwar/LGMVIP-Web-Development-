@@ -1,5 +1,5 @@
 
-import Users from "./components/cards";
+import Users from "./cards";
 import './App.css';
 import React, { Component } from 'react'
 
